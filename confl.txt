@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 es unda darches
+=======
+minda rom es waishalos
+>>>>>>> confl
