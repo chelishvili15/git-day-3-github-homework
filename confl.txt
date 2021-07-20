@@ -1,9 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 minda rom es waishalos
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> main
 es unda darches
 =======
 minda rom es waishalos
 >>>>>>> confl
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
