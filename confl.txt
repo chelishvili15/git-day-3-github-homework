@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 minda rom es waishalos
+=======
+<<<<<<< HEAD
+es unda darches
+=======
+minda rom es waishalos
+>>>>>>> confl
+>>>>>>> main
